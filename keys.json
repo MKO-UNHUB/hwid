@@ -1,0 +1,10 @@
+{
+  "ABC123": {
+    "hwid": "abc-def-123",
+    "used": true
+  },
+  "DEF456": {
+    "hwid": "",
+    "used": false
+  }
+}
